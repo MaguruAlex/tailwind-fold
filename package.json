@@ -2,12 +2,12 @@
     "name": "tailwind-fold",
     "displayName": "Tailwind Fold",
     "description": "Improves code readability by folding class attributes",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "icon": "images/icon.png",
-    "publisher": "stivo",
+    "publisher": "MaguruAlex",
     "repository": {
         "type": "git",
-        "url": "https://github.com/stivoat/tailwind-fold"
+        "url": "https://github.com/MaguruAlex/tailwind-fold"
     },
     "engines": {
         "vscode": "^1.74.0"
